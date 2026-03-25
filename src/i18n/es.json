@@ -1,0 +1,186 @@
+{
+  "nav": {
+    "about": "Sobre mí",
+    "academics": "Formación",
+    "projects": "Proyectos",
+    "experience": "Experiencia",
+    "skills": "Habilidades",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "name": "Gaspar Giménez",
+    "degree": "Licenciado en Ciencias de la Computación",
+    "subtitle": "Desarrollador Full-Stack · Ingeniero IA · Fundador",
+    "description": "Construyendo sistemas escalables, lanzando startups y creando productos impulsados por IA que generan impacto.",
+    "viewProjects": "Ver Proyectos",
+    "downloadCV": "Descargar CV"
+  },
+  "about": {
+    "title": "Sobre mí",
+    "p1": "Soy un desarrollador full-stack e ingeniero de IA con más de 5 años de experiencia construyendo software de nivel productivo. Mi enfoque combina una mentalidad de startup con pensamiento sistémico — diseño arquitecturas que escalan y lanzo productos que importan.",
+    "p2": "Desde co-fundar startups tecnológicas hasta enseñar en la universidad, prospero en la intersección de la ingeniería, el liderazgo y la innovación. Me importa profundamente el código limpio, la infraestructura escalable y resolver problemas reales con tecnología."
+  },
+  "academics": {
+    "title": "Formación Académica",
+    "bachelor": {
+      "title": "Licenciatura en Ciencias de la Computación",
+      "institution": "Universidad Nacional de Rosario — FCEIA",
+      "status": "Completada",
+      "progress": "100%",
+      "gpa": "8.70",
+      "period": "2023 – 2025"
+    },
+    "master": {
+      "title": "Maestría en Ciencias de la Computación",
+      "institution": "Universidad Nacional de Rosario — FCEIA",
+      "status": "En Curso",
+      "progress": "62.5%",
+      "gpa": "8.70",
+      "period": "2023 – 2028"
+    },
+    "technician": {
+      "title": "Técnico en Informática",
+      "institution": "Instituto Politécnico Superior — General San Martín",
+      "gpa": "8.50",
+      "period": "2017 – 2022"
+    },
+    "teaching": {
+      "title": "Roles Docentes",
+      "items": [
+        "Lógica — FCEIA, UNR (2025)",
+        "Grafos — IPS, UNR (2023)"
+      ]
+    },
+    "special": {
+      "title": "Cursos Especiales",
+      "items": [
+        "Teoría de la Computabilidad — Prof. Santiago Figueira, UNRC (2024)",
+        "B2 FCE Certificate — Puntaje: 173 (2023)"
+      ]
+    },
+    "gpaLabel": "Promedio",
+    "progressLabel": "Progreso"
+  },
+  "projects": {
+    "title": "Proyectos",
+    "items": [
+      {
+        "title": "Broken Shepherds",
+        "description": "Una plataforma web completa construida para la marca Broken Shepherds. Incluye gestión de contenido en tiempo real, autenticación de usuarios y una experiencia de e-commerce integrada.",
+        "tech": ["Next.js", "TypeScript", "Node.js", "PostgreSQL"],
+        "impact": "Plataforma en producción sirviendo usuarios reales con rendimiento óptimo.",
+        "link": "https://app.brokenshepherds.com/"
+      },
+      {
+        "title": "Bravo Web",
+        "description": "La aplicación web principal de Bravo, una startup tecnológica. Construida de punta a punta con un stack moderno, con despliegues automatizados, gestión de base de datos e interfaz de usuario pulida.",
+        "tech": ["Next.js", "Laravel", "MySQL", "Docker", "GitHub Actions"],
+        "impact": "Plataforma principal del startup con CI/CD y testing automatizado.",
+        "link": "https://bravoweb.com.ar/"
+      },
+      {
+        "title": "Lambda Works",
+        "description": "Sitio web corporativo para Lambda Works, un estudio de software boutique enfocado en desarrollo nearshore. Diseño limpio mostrando servicios, casos de estudio y valores de la empresa.",
+        "tech": ["React", "Vite", "TypeScript"],
+        "impact": "Presencia web profesional para una consultora de software en crecimiento.",
+        "link": "https://lambdaworks.ar/"
+      }
+    ],
+    "viewProject": "Ver Proyecto",
+    "techStack": "Stack Tecnológico"
+  },
+  "lambda": {
+    "title": "Lambda Works",
+    "subtitle": "Estudio de Software Boutique",
+    "role": "Fundador y Propietario",
+    "description": "Lambda Works es un estudio de software boutique que fundé, especializado en desarrollo nearshore para clientes de Estados Unidos. Construimos MVPs, sistemas internos y soluciones de automatización con un fuerte énfasis en estructura, escalabilidad y arquitectura limpia.",
+    "points": [
+      "Desarrollo nearshore para clientes de EE.UU.",
+      "MVPs, herramientas internas y automatizaciones",
+      "Enfoque en escalabilidad y arquitectura limpia",
+      "Desarrollo de producto de punta a punta"
+    ]
+  },
+  "experience": {
+    "title": "Experiencia",
+    "items": [
+      {
+        "role": "Co-Fundador y CTO",
+        "company": "Bravo",
+        "location": "Rosario, Argentina",
+        "period": "Mar 2023 – Presente",
+        "description": "Liderando el desarrollo técnico de una startup tecnológica. Construí la aplicación web principal usando Laravel, Next.js y MySQL con contenedores Docker y CI/CD via GitHub Actions. Contribuí a la validación de ideas, estrategia de marketing y dirección de producto.",
+        "tech": ["Laravel", "Next.js", "MySQL", "Docker", "GitHub Actions"]
+      },
+      {
+        "role": "Backend Developer · DevOps · Ingeniero IA",
+        "company": "The Blue Box",
+        "location": "Rosario, Argentina",
+        "period": "Sep 2025 – Presente",
+        "description": "Diseñé y desarrollé sistemas backend usando NestJS, GCP y Postgres. Optimicé la infraestructura de búsqueda migrando a búsqueda vectorizada, reduciendo el tiempo de consulta de ~1 minuto a ~4 segundos. Lideré el despliegue e infraestructura en GCP con App Engine y Cloud Tasks.",
+        "tech": ["NestJS", "GCP", "PostgreSQL", "Weaviate", "Firebase"]
+      },
+      {
+        "role": "Desarrollador Full-Stack",
+        "company": "WyMaq",
+        "location": "Buenos Aires, Argentina",
+        "period": "Oct 2022 – Ene 2024",
+        "description": "Entregué soluciones escalables para los proyectos principales de la empresa. Lideré la migración a un stack moderno usando Next.js y AngularJS integrados con APIs RESTful de Laravel.",
+        "tech": ["Next.js", "AngularJS", "Laravel", "Docker", "MySQL"]
+      },
+      {
+        "role": "Desarrollador de Software",
+        "company": "Scale AI",
+        "location": "Remoto",
+        "period": "Ene 2024 – Nov 2024",
+        "description": "Supervisé y generé código para el entrenamiento de diversos LLMs enfocados en ciencia de datos. Trabajé principalmente con Python, Pandas y Matplotlib para desarrollo de modelos de IA.",
+        "tech": ["Python", "Pandas", "Matplotlib", "LLMs"]
+      },
+      {
+        "role": "Profesor",
+        "company": "Universidad Nacional de Rosario",
+        "location": "Rosario, Argentina",
+        "period": "Mar 2023 – Presente",
+        "description": "Enseñando Lógica en FCEIA-UNR y anteriormente Grafos en IPS-UNR. Creé material de clase y dicté clases sobre algoritmos incluyendo el algoritmo de Dijkstra.",
+        "tech": ["Lógica", "Grafos", "Algoritmos"]
+      }
+    ]
+  },
+  "skills": {
+    "title": "Habilidades",
+    "categories": {
+      "languages": {
+        "title": "Lenguajes",
+        "items": ["TypeScript", "Python", "SQL", "C", "Haskell"]
+      },
+      "backend": {
+        "title": "Backend",
+        "items": ["Laravel", "Node.js / Express", "NestJS", "Django"]
+      },
+      "frontend": {
+        "title": "Frontend",
+        "items": ["React", "Next.js", "Vite", "AngularJS"]
+      },
+      "ai": {
+        "title": "IA & ML",
+        "items": ["Entrenamiento LLM", "Prompt Engineering", "Desarrollo Asistido por IA", "Weaviate"]
+      },
+      "devops": {
+        "title": "DevOps & Cloud",
+        "items": ["Docker", "GCP", "Firebase", "GitHub Actions", "Linux"]
+      }
+    }
+  },
+  "contact": {
+    "title": "Contacto",
+    "cta": "Construyamos algo grandioso.",
+    "description": "Siempre estoy abierto a discutir nuevas oportunidades, proyectos interesantes, o simplemente tener una buena conversación sobre tecnología.",
+    "email": "gaspar.gimenez8@gmail.com",
+    "linkedin": "LinkedIn",
+    "sendEmail": "Enviar Email"
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados.",
+    "builtWith": "Hecho con React, TypeScript y GSAP"
+  }
+}

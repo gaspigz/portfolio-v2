@@ -1,0 +1,186 @@
+{
+  "nav": {
+    "about": "About",
+    "academics": "Academics",
+    "projects": "Projects",
+    "experience": "Experience",
+    "skills": "Skills",
+    "contact": "Contact"
+  },
+  "hero": {
+    "name": "Gaspar Giménez",
+    "degree": "Bachelor's in Computer Science",
+    "subtitle": "Full-Stack Developer · AI Engineer · Founder",
+    "description": "Building scalable systems, launching startups, and creating AI-driven products that make an impact.",
+    "viewProjects": "View Projects",
+    "downloadCV": "Download CV"
+  },
+  "about": {
+    "title": "About",
+    "p1": "I'm a full-stack developer and AI engineer with over 5 years of experience building production-grade software. My approach combines a startup mindset with systems thinking — I design architectures that scale and ship products that matter.",
+    "p2": "From co-founding tech startups to teaching at university, I thrive at the intersection of engineering, leadership, and innovation. I care deeply about clean code, scalable infrastructure, and solving real problems with technology."
+  },
+  "academics": {
+    "title": "Academic Achievements",
+    "bachelor": {
+      "title": "Bachelor's in Computer Science",
+      "institution": "National University of Rosario — FCEIA",
+      "status": "Completed",
+      "progress": "100%",
+      "gpa": "8.70",
+      "period": "2023 – 2025"
+    },
+    "master": {
+      "title": "Master's in Computer Science",
+      "institution": "National University of Rosario — FCEIA",
+      "status": "In Progress",
+      "progress": "62.5%",
+      "gpa": "8.70",
+      "period": "2023 – 2028"
+    },
+    "technician": {
+      "title": "IT Technician",
+      "institution": "Instituto Politécnico Superior — General San Martín",
+      "gpa": "8.50",
+      "period": "2017 – 2022"
+    },
+    "teaching": {
+      "title": "Teaching Roles",
+      "items": [
+        "Logic — FCEIA, UNR (2025)",
+        "Graphs — IPS, UNR (2023)"
+      ]
+    },
+    "special": {
+      "title": "Special Courses",
+      "items": [
+        "Computability Theory — Prof. Santiago Figueira, UNRC (2024)",
+        "B2 FCE Certificate — Score: 173 (2023)"
+      ]
+    },
+    "gpaLabel": "GPA",
+    "progressLabel": "Progress"
+  },
+  "projects": {
+    "title": "Projects",
+    "items": [
+      {
+        "title": "Broken Shepherds",
+        "description": "A full-featured web platform built for the Broken Shepherds brand. Features include real-time content management, user authentication, and an integrated e-commerce experience.",
+        "tech": ["Next.js", "TypeScript", "Node.js", "PostgreSQL"],
+        "impact": "Live production platform serving real users with seamless performance.",
+        "link": "https://app.brokenshepherds.com/"
+      },
+      {
+        "title": "Bravo Web",
+        "description": "The core web application for Bravo, a tech startup. Built end-to-end with a modern stack, featuring automated deployments, database management, and a polished user interface.",
+        "tech": ["Next.js", "Laravel", "MySQL", "Docker", "GitHub Actions"],
+        "impact": "Startup's main product platform with CI/CD and automated testing.",
+        "link": "https://bravoweb.com.ar/"
+      },
+      {
+        "title": "Lambda Works",
+        "description": "Corporate website for Lambda Works, a boutique software studio focused on nearshore development. Clean design showcasing services, case studies, and company values.",
+        "tech": ["React", "Vite", "TypeScript"],
+        "impact": "Professional web presence for a growing software consultancy.",
+        "link": "https://lambdaworks.ar/"
+      }
+    ],
+    "viewProject": "View Project",
+    "techStack": "Tech Stack"
+  },
+  "lambda": {
+    "title": "Lambda Works",
+    "subtitle": "Boutique Software Studio",
+    "role": "Founder & Owner",
+    "description": "Lambda Works is a boutique software studio I founded, specializing in nearshore development for US-based clients. We build MVPs, internal systems, and automation solutions with a strong emphasis on structure, scalability, and clean architecture.",
+    "points": [
+      "Nearshore development for US clients",
+      "MVPs, internal tools & automations",
+      "Focus on scalability and clean architecture",
+      "End-to-end product development"
+    ]
+  },
+  "experience": {
+    "title": "Experience",
+    "items": [
+      {
+        "role": "Co-Founder & CTO",
+        "company": "Bravo",
+        "location": "Rosario, Argentina",
+        "period": "Mar 2023 – Present",
+        "description": "Leading technical development of a tech startup. Built the main web application using Laravel, Next.js, and MySQL with Docker containerization and CI/CD via GitHub Actions. Contributed to idea validation, marketing strategy, and product direction.",
+        "tech": ["Laravel", "Next.js", "MySQL", "Docker", "GitHub Actions"]
+      },
+      {
+        "role": "Backend Developer · DevOps · AI Engineer",
+        "company": "The Blue Box",
+        "location": "Rosario, Argentina",
+        "period": "Sep 2025 – Present",
+        "description": "Designed and developed backend systems using NestJS, GCP, and Postgres. Optimized search infrastructure by migrating to vectorized search, reducing query time from ~1 minute to ~4 seconds. Led deployment and infrastructure on GCP with App Engine and Cloud Tasks.",
+        "tech": ["NestJS", "GCP", "PostgreSQL", "Weaviate", "Firebase"]
+      },
+      {
+        "role": "Full-Stack Developer",
+        "company": "WyMaq",
+        "location": "Buenos Aires, Argentina",
+        "period": "Oct 2022 – Jan 2024",
+        "description": "Delivered scalable solutions for core company projects. Led migration to a modern tech stack using Next.js and AngularJS integrated with Laravel RESTful APIs.",
+        "tech": ["Next.js", "AngularJS", "Laravel", "Docker", "MySQL"]
+      },
+      {
+        "role": "Software Developer",
+        "company": "Scale AI",
+        "location": "Remote",
+        "period": "Jan 2024 – Nov 2024",
+        "description": "Supervised and generated code for training various LLMs focused on data science. Worked primarily with Python, Pandas, and Matplotlib for AI model development.",
+        "tech": ["Python", "Pandas", "Matplotlib", "LLMs"]
+      },
+      {
+        "role": "Professor",
+        "company": "National University of Rosario",
+        "location": "Rosario, Argentina",
+        "period": "Mar 2023 – Present",
+        "description": "Teaching Logic at FCEIA-UNR and previously Graphs at IPS-UNR. Created class materials and delivered lectures on algorithms including Dijkstra's algorithm.",
+        "tech": ["Logic", "Graphs", "Algorithms"]
+      }
+    ]
+  },
+  "skills": {
+    "title": "Skills",
+    "categories": {
+      "languages": {
+        "title": "Languages",
+        "items": ["TypeScript", "Python", "SQL", "C", "Haskell"]
+      },
+      "backend": {
+        "title": "Backend",
+        "items": ["Laravel", "Node.js / Express", "NestJS", "Django"]
+      },
+      "frontend": {
+        "title": "Frontend",
+        "items": ["React", "Next.js", "Vite", "AngularJS"]
+      },
+      "ai": {
+        "title": "AI & ML",
+        "items": ["LLM Training", "Prompt Engineering", "AI-Assisted Development", "Weaviate"]
+      },
+      "devops": {
+        "title": "DevOps & Cloud",
+        "items": ["Docker", "GCP", "Firebase", "GitHub Actions", "Linux"]
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "cta": "Let's build something great.",
+    "description": "I'm always open to discussing new opportunities, interesting projects, or just having a good conversation about technology.",
+    "email": "gaspar.gimenez8@gmail.com",
+    "linkedin": "LinkedIn",
+    "sendEmail": "Send Email"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "builtWith": "Built with React, TypeScript & GSAP"
+  }
+}
