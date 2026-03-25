@@ -9,7 +9,7 @@
   },
   "hero": {
     "name": "Gaspar Giménez",
-    "degree": "Licenciado en Ciencias de la Computación",
+    "degree": "Bachiller Universitario en Ciencias de la Computación",
     "subtitle": "Desarrollador Full-Stack · Ingeniero IA · Fundador",
     "description": "Construyendo sistemas escalables, lanzando startups y creando productos impulsados por IA que generan impacto.",
     "viewProjects": "Ver Proyectos",
@@ -67,21 +67,36 @@
       {
         "title": "Broken Shepherds",
         "description": "Una plataforma web completa construida para la marca Broken Shepherds. Incluye gestión de contenido en tiempo real, autenticación de usuarios y una experiencia de e-commerce integrada.",
-        "tech": ["Next.js", "TypeScript", "Node.js", "PostgreSQL"],
+        "tech": [
+          "Next.js",
+          "TypeScript",
+          "Node.js",
+          "PostgreSQL"
+        ],
         "impact": "Plataforma en producción sirviendo usuarios reales con rendimiento óptimo.",
         "link": "https://app.brokenshepherds.com/"
       },
       {
         "title": "Bravo Web",
         "description": "La aplicación web principal de Bravo, una startup tecnológica. Construida de punta a punta con un stack moderno, con despliegues automatizados, gestión de base de datos e interfaz de usuario pulida.",
-        "tech": ["Next.js", "Laravel", "MySQL", "Docker", "GitHub Actions"],
+        "tech": [
+          "Next.js",
+          "Laravel",
+          "MySQL",
+          "Docker",
+          "GitHub Actions"
+        ],
         "impact": "Plataforma principal del startup con CI/CD y testing automatizado.",
         "link": "https://bravoweb.com.ar/"
       },
       {
         "title": "Lambda Works",
         "description": "Sitio web corporativo para Lambda Works, un estudio de software boutique enfocado en desarrollo nearshore. Diseño limpio mostrando servicios, casos de estudio y valores de la empresa.",
-        "tech": ["React", "Vite", "TypeScript"],
+        "tech": [
+          "React",
+          "Vite",
+          "TypeScript"
+        ],
         "impact": "Presencia web profesional para una consultora de software en crecimiento.",
         "link": "https://lambdaworks.ar/"
       }
@@ -110,7 +125,13 @@
         "location": "Rosario, Argentina",
         "period": "Mar 2023 – Presente",
         "description": "Liderando el desarrollo técnico de una startup tecnológica. Construí la aplicación web principal usando Laravel, Next.js y MySQL con contenedores Docker y CI/CD via GitHub Actions. Contribuí a la validación de ideas, estrategia de marketing y dirección de producto.",
-        "tech": ["Laravel", "Next.js", "MySQL", "Docker", "GitHub Actions"]
+        "tech": [
+          "Laravel",
+          "Next.js",
+          "MySQL",
+          "Docker",
+          "GitHub Actions"
+        ]
       },
       {
         "role": "Backend Developer · DevOps · Ingeniero IA",
@@ -118,7 +139,13 @@
         "location": "Rosario, Argentina",
         "period": "Sep 2025 – Presente",
         "description": "Diseñé y desarrollé sistemas backend usando NestJS, GCP y Postgres. Optimicé la infraestructura de búsqueda migrando a búsqueda vectorizada, reduciendo el tiempo de consulta de ~1 minuto a ~4 segundos. Lideré el despliegue e infraestructura en GCP con App Engine y Cloud Tasks.",
-        "tech": ["NestJS", "GCP", "PostgreSQL", "Weaviate", "Firebase"]
+        "tech": [
+          "NestJS",
+          "GCP",
+          "PostgreSQL",
+          "Weaviate",
+          "Firebase"
+        ]
       },
       {
         "role": "Desarrollador Full-Stack",
@@ -126,7 +153,13 @@
         "location": "Buenos Aires, Argentina",
         "period": "Oct 2022 – Ene 2024",
         "description": "Entregué soluciones escalables para los proyectos principales de la empresa. Lideré la migración a un stack moderno usando Next.js y AngularJS integrados con APIs RESTful de Laravel.",
-        "tech": ["Next.js", "AngularJS", "Laravel", "Docker", "MySQL"]
+        "tech": [
+          "Next.js",
+          "AngularJS",
+          "Laravel",
+          "Docker",
+          "MySQL"
+        ]
       },
       {
         "role": "Desarrollador de Software",
@@ -134,7 +167,12 @@
         "location": "Remoto",
         "period": "Ene 2024 – Nov 2024",
         "description": "Supervisé y generé código para el entrenamiento de diversos LLMs enfocados en ciencia de datos. Trabajé principalmente con Python, Pandas y Matplotlib para desarrollo de modelos de IA.",
-        "tech": ["Python", "Pandas", "Matplotlib", "LLMs"]
+        "tech": [
+          "Python",
+          "Pandas",
+          "Matplotlib",
+          "LLMs"
+        ]
       },
       {
         "role": "Profesor",
@@ -142,7 +180,11 @@
         "location": "Rosario, Argentina",
         "period": "Mar 2023 – Presente",
         "description": "Enseñando Lógica en FCEIA-UNR y anteriormente Grafos en IPS-UNR. Creé material de clase y dicté clases sobre algoritmos incluyendo el algoritmo de Dijkstra.",
-        "tech": ["Lógica", "Grafos", "Algoritmos"]
+        "tech": [
+          "Lógica",
+          "Grafos",
+          "Algoritmos"
+        ]
       }
     ]
   },
@@ -151,23 +193,50 @@
     "categories": {
       "languages": {
         "title": "Lenguajes",
-        "items": ["TypeScript", "Python", "SQL", "C", "Haskell"]
+        "items": [
+          "TypeScript",
+          "Python",
+          "SQL",
+          "C",
+          "Haskell"
+        ]
       },
       "backend": {
         "title": "Backend",
-        "items": ["Laravel", "Node.js / Express", "NestJS", "Django"]
+        "items": [
+          "Laravel",
+          "Node.js / Express",
+          "NestJS",
+          "Django"
+        ]
       },
       "frontend": {
         "title": "Frontend",
-        "items": ["React", "Next.js", "Vite", "AngularJS"]
+        "items": [
+          "React",
+          "Next.js",
+          "Vite",
+          "AngularJS"
+        ]
       },
       "ai": {
         "title": "IA & ML",
-        "items": ["Entrenamiento LLM", "Prompt Engineering", "Desarrollo Asistido por IA", "Weaviate"]
+        "items": [
+          "Entrenamiento LLM",
+          "Prompt Engineering",
+          "Desarrollo Asistido por IA",
+          "Weaviate"
+        ]
       },
       "devops": {
         "title": "DevOps & Cloud",
-        "items": ["Docker", "GCP", "Firebase", "GitHub Actions", "Linux"]
+        "items": [
+          "Docker",
+          "GCP",
+          "Firebase",
+          "GitHub Actions",
+          "Linux"
+        ]
       }
     }
   },
