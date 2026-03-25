@@ -66,22 +66,37 @@
     "items": [
       {
         "title": "Broken Shepherds",
-        "description": "A full-featured web platform built for the Broken Shepherds brand. Features include real-time content management, user authentication, and an integrated e-commerce experience.",
-        "tech": ["Next.js", "TypeScript", "Node.js", "PostgreSQL"],
+        "description": "Worked as a Backend and Cloud Engineer at [TheBlueBox](https://www.linkedin.com/company/theblueboxdev).",
+        "tech": [
+          "TypeScript",
+          "NestJS",
+          "PostgreSQL",
+          "Google Cloud Platform"
+        ],
         "impact": "Live production platform serving real users with seamless performance.",
         "link": "https://app.brokenshepherds.com/"
       },
       {
         "title": "Bravo Web",
         "description": "The core web application for Bravo, a tech startup. Built end-to-end with a modern stack, featuring automated deployments, database management, and a polished user interface.",
-        "tech": ["Next.js", "Laravel", "MySQL", "Docker", "GitHub Actions"],
+        "tech": [
+          "Next.js",
+          "Laravel",
+          "MySQL",
+          "Docker",
+          "GitHub Actions"
+        ],
         "impact": "Startup's main product platform with CI/CD and automated testing.",
         "link": "https://bravoweb.com.ar/"
       },
       {
         "title": "Lambda Works",
         "description": "Corporate website for Lambda Works, a boutique software studio focused on nearshore development. Clean design showcasing services, case studies, and company values.",
-        "tech": ["React", "Vite", "TypeScript"],
+        "tech": [
+          "React",
+          "Vite",
+          "TypeScript"
+        ],
         "impact": "Professional web presence for a growing software consultancy.",
         "link": "https://lambdaworks.ar/"
       }
@@ -110,7 +125,13 @@
         "location": "Rosario, Argentina",
         "period": "Mar 2023 – Present",
         "description": "Leading technical development of a tech startup. Built the main web application using Laravel, Next.js, and MySQL with Docker containerization and CI/CD via GitHub Actions. Contributed to idea validation, marketing strategy, and product direction.",
-        "tech": ["Laravel", "Next.js", "MySQL", "Docker", "GitHub Actions"]
+        "tech": [
+          "Laravel",
+          "Next.js",
+          "MySQL",
+          "Docker",
+          "GitHub Actions"
+        ]
       },
       {
         "role": "Backend Developer · DevOps · AI Engineer",
@@ -118,7 +139,13 @@
         "location": "Rosario, Argentina",
         "period": "Sep 2025 – Present",
         "description": "Designed and developed backend systems using NestJS, GCP, and Postgres. Optimized search infrastructure by migrating to vectorized search, reducing query time from ~1 minute to ~4 seconds. Led deployment and infrastructure on GCP with App Engine and Cloud Tasks.",
-        "tech": ["NestJS", "GCP", "PostgreSQL", "Weaviate", "Firebase"]
+        "tech": [
+          "NestJS",
+          "GCP",
+          "PostgreSQL",
+          "Weaviate",
+          "Firebase"
+        ]
       },
       {
         "role": "Full-Stack Developer",
@@ -126,7 +153,13 @@
         "location": "Buenos Aires, Argentina",
         "period": "Oct 2022 – Jan 2024",
         "description": "Delivered scalable solutions for core company projects. Led migration to a modern tech stack using Next.js and AngularJS integrated with Laravel RESTful APIs.",
-        "tech": ["Next.js", "AngularJS", "Laravel", "Docker", "MySQL"]
+        "tech": [
+          "Next.js",
+          "AngularJS",
+          "Laravel",
+          "Docker",
+          "MySQL"
+        ]
       },
       {
         "role": "Software Developer",
@@ -134,7 +167,12 @@
         "location": "Remote",
         "period": "Jan 2024 – Nov 2024",
         "description": "Supervised and generated code for training various LLMs focused on data science. Worked primarily with Python, Pandas, and Matplotlib for AI model development.",
-        "tech": ["Python", "Pandas", "Matplotlib", "LLMs"]
+        "tech": [
+          "Python",
+          "Pandas",
+          "Matplotlib",
+          "LLMs"
+        ]
       },
       {
         "role": "Professor",
@@ -142,7 +180,11 @@
         "location": "Rosario, Argentina",
         "period": "Mar 2023 – Present",
         "description": "Teaching Logic at FCEIA-UNR and previously Graphs at IPS-UNR. Created class materials and delivered lectures on algorithms including Dijkstra's algorithm.",
-        "tech": ["Logic", "Graphs", "Algorithms"]
+        "tech": [
+          "Logic",
+          "Graphs",
+          "Algorithms"
+        ]
       }
     ]
   },
@@ -151,23 +193,50 @@
     "categories": {
       "languages": {
         "title": "Languages",
-        "items": ["TypeScript", "Python", "SQL", "C", "Haskell"]
+        "items": [
+          "TypeScript",
+          "Python",
+          "SQL",
+          "C",
+          "Haskell"
+        ]
       },
       "backend": {
         "title": "Backend",
-        "items": ["Laravel", "Node.js / Express", "NestJS", "Django"]
+        "items": [
+          "Laravel",
+          "Node.js / Express",
+          "NestJS",
+          "Django"
+        ]
       },
       "frontend": {
         "title": "Frontend",
-        "items": ["React", "Next.js", "Vite", "AngularJS"]
+        "items": [
+          "React",
+          "Next.js",
+          "Vite",
+          "AngularJS"
+        ]
       },
       "ai": {
         "title": "AI & ML",
-        "items": ["LLM Training", "Prompt Engineering", "AI-Assisted Development", "Weaviate"]
+        "items": [
+          "LLM Training",
+          "Prompt Engineering",
+          "AI-Assisted Development",
+          "Weaviate"
+        ]
       },
       "devops": {
         "title": "DevOps & Cloud",
-        "items": ["Docker", "GCP", "Firebase", "GitHub Actions", "Linux"]
+        "items": [
+          "Docker",
+          "GCP",
+          "Firebase",
+          "GitHub Actions",
+          "Linux"
+        ]
       }
     }
   },

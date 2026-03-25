@@ -66,12 +66,12 @@
     "items": [
       {
         "title": "Broken Shepherds",
-        "description": "Una plataforma web completa construida para la marca Broken Shepherds. Incluye gestión de contenido en tiempo real, autenticación de usuarios y una experiencia de e-commerce integrada.",
+        "description": "Trabajé como Backend and Cloud Engineer en [TheBlueBox](https://www.linkedin.com/company/theblueboxdev).",
         "tech": [
-          "Next.js",
           "TypeScript",
-          "Node.js",
-          "PostgreSQL"
+          "NestJS",
+          "PostgreSQL",
+          "Google Cloud Platform"
         ],
         "impact": "Plataforma en producción sirviendo usuarios reales con rendimiento óptimo.",
         "link": "https://app.brokenshepherds.com/"
