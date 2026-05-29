@@ -107,11 +107,9 @@
   "lambda": {
     "title": "Lambda Works",
     "subtitle": "Boutique Software Studio",
-    "role": "Founder & Owner",
+    "role": "Web Design",
     "description": "Lambda Works is a boutique software studio I founded, specializing in nearshore development for US-based clients. We build MVPs, internal systems, and automation solutions with a strong emphasis on structure, scalability, and clean architecture.",
     "points": [
-      "Nearshore development for US clients",
-      "MVPs, internal tools & automations",
       "Focus on scalability and clean architecture",
       "End-to-end product development"
     ]
